@@ -1,3 +1,1 @@
 - 👋 Hi, I’m @Manohar-Maharshi
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Tailwindcss(it makes my ui design faster and efficient) and new Javascript methods.
