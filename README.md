@@ -12,6 +12,7 @@
 
 * Simple Web apps
     - [x] To-Do List 👍  [Live Demo](https://todo-webapplication.netlify.app)
+    - [x] Weather App 👍  [Live Demo](https://open-weather-application.netlify.app)
     - [ ] Login Authentication
     - [ ] Drawing App
     - [ ] weight tracker app
@@ -40,6 +41,5 @@
     - [ ] Instagram client
     - [ ] GitHub API client
     - [ ] An Unsplash API client
-    - [ ] Weather App
     - [ ] GitHub Notifier
     - [ ] Search engine result page(Google Search)
