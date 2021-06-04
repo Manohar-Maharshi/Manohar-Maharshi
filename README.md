@@ -18,6 +18,7 @@
     - [x] Dictionary App 👍 [Live Demo](https://minimal-dictionary-app.netlify.app)
     - [x] News App 👍 [Live Demo](https://news-now-app.netlify.app)
     - [x] Movie Search Svelte-App 👍 [Live Demo](https://movie-search-svelte-app.netlify.app)
+    - [x] Hacker News client 👍 [Live Demo](https://hacker-news-live-svelte-app.netlify.app)
     - [ ] Login Authentication
     - [ ] Drawing App
     - [ ] weight tracker app
@@ -39,7 +40,6 @@
 
 * API-powered apps
     - [ ] chat application
-    - [ ] Hacker News client
     - [ ] Reddit client
     - [ ] Food Ordering and Management System
     - [ ] Instagram client
