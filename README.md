@@ -6,5 +6,5 @@
 |-------------------|-----------------------------------|-------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|
 |   **Filmaholic**      | <center> A Twitch Themed Movie Search App Specially & Precisely Designed for Filmaholic's. </center> | ![Svelte.js](https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00`)  | ![Netlify Statu](https://api.netlify.com/api/v1/badges/8bd4c009-72a4-4bc1-80bc-a82a721c9850/deploy-status)|
 
-  ![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Manohar-Maharshi&theme=midnight-purple)
-  
+<!--   ![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Manohar-Maharshi&theme=midnight-purple)
+   -->
